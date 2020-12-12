@@ -1,4 +1,4 @@
-    <!-- ======= Hero Section ======= -->
+   <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex flex-column justify-content-end align-items-center">
         <div class="overlay">
             <div id="heroCarousel" class="container carousel carousel-fade" data-ride="carousel">
@@ -15,8 +15,6 @@
                             بالنيابة عنك.
 
                             احصل على مستوى الخدمة الذي تستحقه</p>
-                        <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">المزيد
-                            عنا</a>
                     </div>
                 </div>
 
@@ -48,7 +46,6 @@
             <div class="container">
 
                 <div class="section-title" data-aos="zoom-out">
-                    <h2>المزيد عنا</h2>
                     <p>من نحن ؟
                     </p>
                 </div>
@@ -82,7 +79,7 @@
             </li>
           </ul> -->
                 <div class="section-title" data-aos="zoom-out">
-                    <h2>المزيد عنا</h2>
+                    <h2 style="direction: rtl; text-align: right;">المزيد عنا</h2>
                 </div>
 
                 <div class="tab-content" data-aos="fade-up">
@@ -304,12 +301,12 @@
                     <div class="carousel-item text-center">
 
                         <figure class="col-md-4 d-md-inline-block">
-                            <img src="assets/img/team/tafra.png" class="img-fluid" >
+                            <img src="assets/img/team/tafra.png" class="img-fluid" style=" max-width: 300px" >
                             </a>
                         </figure>
 
                         <figure class="col-md-4 d-md-inline-block">
-                            <img src="assets/img/team/zboon2.png" class="img-fluid" >
+                            <img src="assets/img/team/zboon2.png" class="img-fluid" style=" max-width: 300px" >
                             </a>
                         </figure>
 
@@ -322,12 +319,12 @@
                     <div class="carousel-item text-center">
 
                         <figure class="col-md-4 d-md-inline-block">
-                            <img src="assets/img/team/amerni.png" class="img-fluid" style="width: 300px;">
+                            <img src="assets/img/team/amerni.png" class="img-fluid" style="width: 300px; max-width: 300px">
                             </a>
                         </figure>
 
                         <figure class="col-md-4 d-md-inline-block">
-                            <img src="assets/img/team/ruched.png" class="img-fluid" style="width: 300px;">
+                            <img src="assets/img/team/ruched.png" class="img-fluid" style="width: 300px; max-width: 300px">
                             </a>
                         </figure>
 
@@ -339,12 +336,12 @@
                     <div class="carousel-item text-center">
 
                         <figure class="col-md-4 d-md-inline-block">
-                            <img src="assets/img/team/korot.png" class="img-fluid" style="width: 300px;">
+                            <img src="assets/img/team/korot.png" class="img-fluid" style="width: 300px; max-width: 300px">
                             </a>
                         </figure>
 
                         <figure class="col-md-4 d-md-inline-block">
-                            <img src="assets/img/team/sting.png" class="img-fluid" style="width: 300px;">
+                            <img src="assets/img/team/sting.png" class="img-fluid" style="width: 300px; max-width: 300px">
                             </a>
                         </figure>
 
@@ -356,12 +353,12 @@
                     <div class="carousel-item text-center">
 
                         <figure class="col-md-4 d-md-inline-block">
-                            <img src="assets/img/team/maroul.png" class="img-fluid" style="width: 300px;">
+                            <img src="assets/img/team/maroul.png" class="img-fluid" style="width: 300px; max-width: 300px">
                             </a>
                         </figure>
 
                         <figure class="col-md-4 d-md-inline-block">
-                            <img src="assets/img/team/cafarat.png" class="img-fluid" style="width: 300px;">
+                            <img src="assets/img/team/cafarat.png" class="img-fluid" style="width: 300px; max-width: 300px">
                             </a>
                         </figure>
 
@@ -374,12 +371,12 @@
 
 
                         <figure class="col-md-4 d-md-inline-block">
-                            <img src="assets/img/team/gezeera-logo.png" class="img-fluid" style="width: 300px;">
+                            <img src="assets/img/team/gezeera-logo.png" class="img-fluid" style="width: 300px; max-width: 300px;">
                             </a>
                         </figure>
 
                         <figure class="col-md-4 d-md-inline-block">
-                            <img src="assets/img/team/unifonic.png" class="img-fluid" style="width: 300px;">
+                            <img src="assets/img/team/unifonic.png" class="img-fluid" style="width: 300px; max-width: 300px;">
                             </a>
                         </figure>
 
